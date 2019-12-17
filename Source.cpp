@@ -18,10 +18,10 @@ double X;
 	exp(variabel)				: Exponen
 	fabs(variabel)				: Nilai Absolut Dalam Float
 	floor(variabel)				: Pembulatan Nilai Ke Bawah
-	fmod(variabel1, variabel 2) : Modulus Dalam Float
+	fmod(variabel1, variabel 2)             : Modulus Dalam Float
 	log(variabel)				: Logaritma Dengan Basis Natural
 	log10(variabel)				: Logaritma Dengan Basis 10
-	pow(variabel1, variabel2)	: Perpangkatan
+	pow(variabel1, variabel2)	        : Perpangkatan
 	sin(variabel)				: Mancari Nilai Sinus
 	sqrt(variabel)				: Mencari Akar Kuadrat
 	tan(variabel)				: Mencari Nilai Tangen
